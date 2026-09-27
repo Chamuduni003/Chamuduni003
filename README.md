@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Chamuduni Hitihamu
 
 * 🌱 I’m currently pursuing an HNDIT at SLIATE Kandy.
-* 💻 I’m interested in full-stack web development, web applications, and object-oriented programming.
+* 💻 I’m interested in full-stack web development, QA, web applications, and object-oriented programming.
 * 🚀 My core tech stack includes JavaScript, React, Node.js, and SQL.
 * 📫 How to reach me: chamudunihitihamu15@gmail.com
 
